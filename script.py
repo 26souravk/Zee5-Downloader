@@ -2,11 +2,11 @@ class script(object):
 
     START_TEXT = """<b>Hai ,
     
-I'm A simple Zee5 link downloader bot With Permanent Thumbnail Support💯.
+I'm A simple Zee5 movies and webseries link downloader bot With Permanent Thumbnail Support.
 
 Please send me any Zee5 link, I can upload it to telegram as File/Video.
 
-Currently I'm in beta mode 🥺, If found any bugs, report @TroJanzSupport !
+Currently I'm in beta mode 🥺, If found any bugs, report @allbotdevelopers !
 
 Click <i>/help</i> for more details....</b>"""
 
@@ -21,9 +21,9 @@ Click <i>/help</i> for more details....</b>"""
 NOTE: Download may take some time! So please wait for it to complete!"""
 
 
-    ABOUT_TEXT = """⭕️<b>My Name : TroJanZ Zee5 DL</b>
+    ABOUT_TEXT = """<b>My Name : Chittaranjan Zee5 DL</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @chittaranjan2020
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
